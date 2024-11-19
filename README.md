@@ -1,3 +1,2 @@
 # Stone-Paper-Scissors
-
-Currently Developing This Game Using HTML, CSS, JS
+Developed This Game Using HTML, CSS, JS
